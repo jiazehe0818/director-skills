@@ -1,0 +1,5 @@
+name: ai_pet_video_serial
+title: AI Pet Video Serial Production
+description: Produce short AI pet video serials with consistent characters, verified playback and shots that avoid duplication.
+category: Media
+include_in_prompt: false

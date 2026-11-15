@@ -1,0 +1,5 @@
+name: script_breakdown_references
+title: Script Breakdown and Visual References
+description: Break a long text script down scene by scene and pair each scene with sourced picture references and a tone direction.
+category: Media
+include_in_prompt: true

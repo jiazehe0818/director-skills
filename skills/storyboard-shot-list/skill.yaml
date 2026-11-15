@@ -1,0 +1,5 @@
+name: storyboard_shot_list
+title: Storyboard and Shot List
+description: Turn a script or outline into a shot by shot storyboard table with hard cuts, one shot size per shot, and expression, position and state continuity checked before delivery.
+category: Media
+include_in_prompt: true
