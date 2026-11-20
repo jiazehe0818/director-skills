@@ -1,6 +1,6 @@
 # 导演 Skill 包 · Director Skills for AI Agents
 
-给 AI 助手用的导演工作流 skill：脚本拆解、分镜逐镜表、AI 宠物短剧制作。作者是实拍导演 / 摄影师，这些规则不是从教程里抄的，是在真实项目和一个 AI 短剧账号的连载里一条一条磨出来的，踩过的坑都写在检查清单里了。
+给 AI 助手用的导演工作流 skill：脚本拆解、分镜逐镜表、AI 宠物短剧制作、广告全案提案。作者是实拍导演 / 摄影师，这些规则不是从教程里抄的，是在真实项目和一个 AI 短剧账号的连载里一条一条磨出来的，踩过的坑都写在检查清单里了。
 
 A pack of agent skills written by a working director and cinematographer. Each skill encodes rules that were earned on real shoots and on an AI short-drama serial, including the failure checks that came out of actual mistakes.
 
@@ -11,6 +11,7 @@ A pack of agent skills written by a working director and cinematographer. Each s
 | [script-breakdown-references](skills/script-breakdown-references/) | 把长文字脚本逐场拆开，每场配真实画面参考（注明来源）和影调方向 |
 | [storyboard-shot-list](skills/storyboard-shot-list/) | 把脚本或梗概变成逐镜表：硬切、一镜一景别、表情与状态连续性写死，交付前逐项自查 |
 | [ai-pet-video-serial](skills/ai-pet-video-serial/) | AI 宠物短剧连载制作：角色一致性、先试一条再批量、声音与画幅的交付检查 |
+| [ad-full-case-proposal](skills/ad-full-case-proposal/) | 广告全案提案：从 brief 拆解到调研、策略、Big Idea、提案大纲，再到媒介、制作交接与复盘 |
 
 ## 怎么用
 
@@ -27,6 +28,14 @@ A pack of agent skills written by a working director and cinematographer. Each s
 贾泽和，导演 / 摄影师。项目经历和联系方式见主页：[github.com/jiazehe0818](https://github.com/jiazehe0818)
 
 配套仓库：[video-breakdown-cases](https://github.com/jiazehe0818/video-breakdown-cases)（爆款视频逐镜拆解库，这套 skill 的很多规则来自那里的拆解）。
+
+也可以在 Agensi 上找到这三个 skill（免费）：
+
+- [Script Breakdown and Visual References](https://www.agensi.io/skills/script-breakdown-and-visual-references)
+- [Storyboard and Shot List](https://www.agensi.io/skills/storyboard-and-shot-list)
+- [AI Pet Video Serial Production](https://www.agensi.io/skills/ai-pet-video-serial-production)
+
+创作者主页：[jiazehe0818](https://www.agensi.io/creators/jiazehe0818)
 
 ## 支持
 
